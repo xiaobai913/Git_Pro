@@ -1,5 +1,5 @@
 Git is a version control system.
-Git is free software.
+Git is a free software.（此处修复了一个BUG）
 
 Git is a 2B.
 
